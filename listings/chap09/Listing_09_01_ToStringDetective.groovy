@@ -1,7 +1,7 @@
 import groovy.transform.ToString
 
 @ToString
-class Detective {
+class Detective2 {
   String firstName, lastName
 }
 

@@ -1,6 +1,6 @@
 import groovy.transform.IndexedProperty
 
-class Author {
+class Author2 {
     String name
     @IndexedProperty List<String> books
 }

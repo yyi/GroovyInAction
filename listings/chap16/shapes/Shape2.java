@@ -1,6 +1,6 @@
 package shapes;
 
-public interface Shape {
+public interface Shape2 {
     double area();
     double perimeter();
 }

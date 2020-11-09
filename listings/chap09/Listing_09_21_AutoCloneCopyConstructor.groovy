@@ -3,7 +3,7 @@ import static groovy.transform.AutoCloneStyle.*
 
 @TupleConstructor
 @AutoClone(style=COPY_CONSTRUCTOR)
-class Person {
+class Person3 {
     final String name
     final Date born
 }

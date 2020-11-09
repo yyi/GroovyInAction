@@ -1,7 +1,7 @@
 import groovy.transform.ToString
 
 @ToString(includeNames = true, ignoreNulls = true)
-class Sleuth {
+class Sleuth2 {
   String firstName, lastName
 }
 

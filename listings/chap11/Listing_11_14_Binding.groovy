@@ -5,7 +5,7 @@ import java.awt.event.ActionEvent
 import java.awt.event.ActionListener
 import java.beans.PropertyVetoException
 
-class Person implements ActionListener {
+class Person2 implements ActionListener {
   @Bindable String name
   @Vetoable int age
 

@@ -1,4 +1,4 @@
-class Person {
+class Person1 {
     List addresses
 
     @groovy.transform.Synchronized

@@ -1,7 +1,7 @@
 import groovy.transform.EqualsAndHashCode
 
 @EqualsAndHashCode
-class Actor {
+class Actor2 {
     String firstName, lastName
 }
 def magneto = new Actor(firstName:'Ian', lastName: 'McKellen')

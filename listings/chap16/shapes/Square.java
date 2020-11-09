@@ -1,6 +1,6 @@
 package shapes;
 
-public class Square implements Shape {
+public class Square implements Shape2 {
     private double side;
     Square(double side) { this.side = side; }
     public double area() { return side * side; }

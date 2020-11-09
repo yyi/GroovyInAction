@@ -1,6 +1,6 @@
 package shapes
 
-class Circle implements Shape {
+class Circle implements Shape2 {
     double radius
     Circle(double radius) { this.radius = radius }
     double area() { return Math.PI * radius ** 2 }

@@ -4,7 +4,7 @@ class Vendor {
     public Address    address = new Address()
 }
 
-class Address  {
+class Address2  {
     public String     street, town, state
     public int        zip
 }
